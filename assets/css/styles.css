@@ -208,7 +208,7 @@ a#scrollUp:hover {
     border-bottom: 1px solid #eaeaea;
 }
 .logo{
-    padding: 42px 0px;
+    padding: 10px 0px;
 }   
 .contact-info li{
     padding: 0px 25px;
@@ -778,7 +778,7 @@ a#scrollUp:hover {
     margin: 120px 0px;
 }
 .expart-wrap{
-    padding:10px 0px;
+    padding:10px 20px;
 }
 .expart-wrap h2{
     font-size: 40px;
